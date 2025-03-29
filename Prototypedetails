@@ -19,6 +19,15 @@ email:test@gmail.com
 password:12345678
 
 
+FTP details
+==================================================
+admin.rocketbpm.com SFTP:-
+85.215.197.109
+admin.rocketbpm.com_fdnwwngavrw
+9Ww8ez!75
+
+Path:-
+/var/www/vhosts/admin.rocketbpm.com/httpdocs
 
 
 jira credentials :
