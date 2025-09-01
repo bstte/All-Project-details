@@ -41,3 +41,23 @@ User: tech@betasofttechnology.com
 Tech@@2025
 https://betasofttechnology.atlassian.net/
 
+microsoft login for testing microsoft :
+User: rocketbpm.developer@MKBurg.de
+Pass: Bs^211514042103uz
+
+
+microsoft login credentials :
+RocketBPM OAuth Login
+Application (client) ID: 9d104391-9870-4054-bf64-0edad7f38566
+Directory (tenant) ID: d2b5a349-bb86-4820-a3a5-41da5261d2b5
+
+RocketBPM secret:
+Expires: 7/21/2026
+Value: QOO8Q~fyEQgPeQRSxygJXzN4F21Vf13PXRwgvcIN
+
+Added URIs:
+http://localhost:3000
+https://app.rocketbpm.com
+
+
+
